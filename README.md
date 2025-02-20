@@ -4,6 +4,8 @@ We have been using this port for months with MRTK3, Unity 2021 and Unity 2022. I
 
 This port is not actively supported by FuzzyDoorTech
 
+## TroubleShooting
+
 Missing 'FrozenWorld' namespace
 Errors like the following (usually a lot):
 
